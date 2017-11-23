@@ -1,0 +1,81 @@
+body
+{
+	background-color: #FAFAD2;
+	background-image: url("gradient_bg.png");
+}
+
+h1
+{
+	font-size:70px;
+	color: #00995c;
+
+}
+h2
+{
+	color:black;
+	
+}
+pre
+{
+	font-size:20px;
+	color: 000000;
+	
+}
+#p0022
+{
+	font-family: "Times New Roman", Times, serif;
+	border:2px solid #00995c;
+	text-align:center;
+	
+}
+
+p
+{
+	font-size:25px;
+}
+#pavatar
+{
+	size:5;
+	text-align: left;
+}
+#havatar
+{
+	text-align:center;
+}
+#imgg
+{
+	border-radius:10px;
+	height:500px;
+	width:750px;
+}
+#info
+{
+	text-align:bottom-right;
+}
+#link
+{
+	color: blue;
+	background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
